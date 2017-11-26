@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712569250253",
+    "firebase_url": "https://saluteassistenza-4b866.firebaseio.com",
+    "project_id": "saluteassistenza-4b866",
+    "storage_bucket": "saluteassistenza-4b866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712569250253:android:f290dd73fbd6865d",
+        "android_client_info": {
+          "package_name": "com.saluteassistenza.athul.saluteassistenza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712569250253-rd5f9per2gfmage7vm5ob9dfbg48749f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saluteassistenza.athul.saluteassistenza",
+            "certificate_hash": "c28ca627f29f394c7f56a892bd7135c6efecd40e"
+          }
+        },
+        {
+          "client_id": "712569250253-6qfcmu35dhe22njr1kstluij120mb8kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCH-DcuFBKtGPiwXHjNzuWlWp1WEQFdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712569250253-6qfcmu35dhe22njr1kstluij120mb8kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

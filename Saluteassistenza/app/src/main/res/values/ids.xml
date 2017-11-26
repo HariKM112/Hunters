@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation_d" type="id" />
+    <item name="navigation_a" type="id" />
+    <item name="navigation_e" type="id" />
+</resources>
